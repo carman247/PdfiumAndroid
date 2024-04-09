@@ -118,5 +118,5 @@ afterEvaluate {
 }
 
 signing {
-    sign publishing.publications
+//    sign publishing.publications
 }
